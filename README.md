@@ -5,7 +5,7 @@
 I concentrate on website development, both back and front end - although I love to experiment with other stuff, especially ESPs. I'm still learning so please excuse me if I get something wrong!
 
 <h4>Good to know</h4>
-🌐 My strongest languages are PHP, JS and C++.
+🌐 My strongest languages are PHP, JS and C++, but I also have knowledge in various other languages!
 <br>
 🖼️ I am also highly skilled in Photoshop and XD.
 <br>
