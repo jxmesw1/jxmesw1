@@ -17,8 +17,8 @@ I concentrate on website development, both back and front end - although I love 
 <h4>My projects</h4>
 My very first project was <a href="https://trainslive.uk">TrainsLive</a>. It was released on 1st January 2022 after a year in development - and I still work on it today. In fact, I have many exciting plans for the website - if you want to know more check out <a href="https://twitter.com/TrainsLive_">TrainsLive's Twitter</a>
 
-<h4>Capybara Dev Co</h4>
-In the near future, I would love to start a website development business. My plan is to introuce <strong>Capybara Dev Co</strong> in 2024 and work with clients to build modern yet unique websites at an affordable price.
+<h4>Capybara Dev Co (coming soon!!)</h4>
+I am the founder of Capybara Dev Co. We work with clients to build modern yet unique websites at an affordable price. No project is too big or small, and with our Price Guarantee, what's not to love?!
 
 <h4>Let's talk!</h4>
 If you want to get in touch, you can do so by sending me an email: james@trainslive.uk.
