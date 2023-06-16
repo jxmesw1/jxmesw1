@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm James</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=27AFC5&center=true&vCenter=true&width=435&lines=A+full+stack+developer+from+the+UK;Founder+of+Capybara+Dev+Co;Founder+of+TrainsLive" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=27AFC5&center=true&vCenter=true&width=435&lines=A+full+stack+developer+from+the+UK;Founder+of+Digital+Capybara" alt="Typing SVG" /></a></h3>
 
 <h4>About me</h4>
 I concentrate on website development, both back and front end - although I love to experiment with other stuff, especially microcontrollers such as Arduinos & ESPs. I'm still learning so please excuse me if I get something wrong!
@@ -19,4 +19,4 @@ I've designed and developed several complex websites throughout my time as a dev
 <br>
 I'm currently working on a very exciting project - more information soon!
 <h4>Let's talk!</h4>
-If you want to get in touch, you can do so by sending me an email: james@trainslive.uk.
+If you want to get in touch, you can do so by sending me an email: james@digitalcapybara.uk.
